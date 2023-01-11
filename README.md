@@ -10,6 +10,8 @@ with another human on the same keyboard. I also plan to fix the end game logic, 
 I tried using Thread.sleep after the 10th point is scored but it seemed to always call Thread.sleep just as the 10th point is scored (showing 9) and would execute any reset code after
 the thread finishes sleep, no matter which order I put the code in. I will have to further my understanding of Threads in Java to see if my vision for the end game logic is even possible.
 
+Go through the src folder to view the code or download the executable file directly. I used Launch4j to create the executable file.
+
 Enjoy the game!
 
 ### Resources Used 
